@@ -1,3 +1,8 @@
+Name: Sachin T C
+Colleg:Government Engineering College Hassan
+Branch:Computer Science and Engineering
+
+
 # Handwritten Text Recognition with TensorFlow
 
 
